@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700&family=Montserrat:wght@200;400;500;600;700&family=Noto+Sans+KR&family=Open+Sans:wght@300;400;500;600;700&family=Playfair+Display:wght@400;700&family=Poppins:wght@300;400;500;600;700;800;900&family=Roboto&display=swap');
+:root {
+    --main-color:#b9a759;
+    --main-bg: #333333;
+    --light-main-bg: #424242;
+    --dark-main-bg: #252628;
+    --main-text-color:#A68A5E;
+    --gold: #fedb03;
+    --brown:rgba(68, 31, 0, 1);
+    --semi-gold: #fbb32f;
+    --light-gold:#f5e799;
+}
+
+* {
+    /* box-sizing: border-box; */
+    transition: 0.5s;
+    font-family: "Montserrat","Cairo", Sans-serif;
+}
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+#root {
+    margin-top: 70px;
+}

@@ -1,0 +1,7 @@
+.backdrop-third {
+    height: 100%;
+    width: 100%;
+    padding: 0px 30px 30px 30px;
+    color: white;
+    z-index: 2;
+}

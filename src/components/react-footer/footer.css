@@ -1,0 +1,15 @@
+.text-reset {
+    text-decoration: none;
+}
+.text-reset:hover {
+    color: var(--main-color) !important;
+}
+
+.footer-link {
+    background-color: white;
+    font-weight: bold;
+    color: black;
+    border: none;
+    border-radius: 30px;
+    width: 80%;
+}

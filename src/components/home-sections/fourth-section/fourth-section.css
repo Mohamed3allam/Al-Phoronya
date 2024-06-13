@@ -1,0 +1,20 @@
+.backdrop-fourth {
+    height: 100%;
+    width: 100%;
+    /* padding: 0px 30px 30px 30px; */
+    color: white;
+}
+
+.updated-link {
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+
+.updated-link:hover {
+    color: black;
+    background-color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}

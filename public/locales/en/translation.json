@@ -1,0 +1,953 @@
+{
+    "languages": {
+      "language":"Language",
+      "en": "English",
+      "ar": "Arabic",
+      "ru":"Russian"
+    },
+    "navbar":{
+      "links":{
+        "1":"BUSINESS SETUP",
+        "2":"OTHER SERVICES",
+        "3":"ABOUT",
+        "4":"CONTACT"
+      },
+      "dropdowns":{
+        "1":"MAINLAND COMPANY",
+        "2":"LLC COMPANY",
+        "3":"FREE ZONE COMPANY",
+        "4":"OFFSHORE COMPANY",
+        "5":"LOCAL SPONSOR",
+        "6":"PRO SERVICES",
+        "7":"VISA SERVICES",
+        "8":"TRANSLATION SERVICES",
+        "9":"ATTESTATION SERVICES",
+        "10":"LIQUIDATION SERVICES"
+      }
+    },
+    "footer":{
+      "links":{
+        "contact":"Contact Us",
+        "privacy-policy":"Privacy Policy"
+      }
+    },
+    "home":{
+      "first-section":{
+        "heading":"Start Your Business In Dubai",
+        "semi-heading":"Problem Free",
+        "paragraph":"Now you can start your own company in the UAE quickly and easily. We offer flexible business solutions. There are no hidden fees, complex procedures, or other hassles.",
+        "button":"Read More"
+      },
+      "second-section":{
+        "about-alphoronya":"About Al Phoronya",
+        "heading":"We Set up Your Business in Dubai – Problem Free!",
+        "paragraph1":"Most founders struggle to start a new business and make it successful in the UAE. We created a process that simplifies the setup procedures, which reduces the formation time to focus on growing their business.",
+        "paragraph2":"Starting a new business drains energy and time. Our simple process will save you both, so you can dedicate your time to focus on other aspects that contribute to more success.",
+        "number1":"Financing",
+        "number2":"Projects",
+        "number3":"BusinessPartners"
+      },
+      "third-section":{
+        "semi-heading":"We Can Do It",
+        "heading":"Your Professional Business Partner"
+      },
+      "fourth-section":{
+        "box1":{
+          "heading":"Save Time and Effort",
+          "paragraph":"Starting a new business drains energy and time. Our simple process will save you both, so you can dedicate your time to focus on other aspects that contribute to more success."
+        },
+        "box2":{
+          "heading":"Protect Your Business",
+          "paragraph":"Don't open yourself to risk. Safeguard your business by choosing the right legal structure, the correct permits, and signing additional agreements to protect your shares, assets, and profits."
+        },
+        "box3":{
+          "heading":"Avoid Startup Problems",
+          "paragraph":"Setting up a business in Dubai requires many decisions and actions. We will dedicate our extensive experience to avoid any problems or obstacles that may arise during your"
+        },
+        "box4":{
+          "heading":"No Hidden Fees",
+          "paragraph":"Start your own company in the UAE quickly and easily. We offer flexible business solutions. There are no hidden fees, complex procedures, or other hassles."
+        },
+        "semi-heading":"Check",
+        "heading":"Some of Our Services",
+        "col1":{
+          "heading":"Ejari",
+          "paragraph":"Integrated solutions for organizing rentals",
+          "button":"Read More"
+        },
+        "col2":{
+          "heading":"Visas and residency",
+          "paragraph":"Apply for a residence permit for your family"
+        },
+        "col3":{
+          "heading":"Visitors",
+          "paragraph":"Apply for a tourist visa"
+        },
+        "col4":{
+          "heading":"Translation And authentication of documents",
+          "paragraph":"Accurate and certified translation of commercial contracts"
+        }
+      },
+      "fifth-section":{
+        "semi-heading":"Al Phoronya",
+        "heading":"Improve Your Experience With Us"
+      }
+      
+    },
+    "about":{
+      "heading":"About Al Phoronya",
+      "centered-heading":"Empowering entrepreneurs and startups in the region by creating a simple way of starting a business",
+      "paragraph1":"We’ve constantly been passionate about making business handy to start, Al Phoronya was based to radically change the commercial enterprise setup manner and build a easy and effortless way to begin a company.",
+      "paragraph2":"Most enterprise setup methods drain electricity and time, a lot of paperwork, rules alternate shortly in UAE, your precious time is wasted strolling between quite a few departments, following up transactions and approvals. We’re constructing a one-stop-shop for all your commercial enterprise needs, a better way to continue to be focal point and operate your true business in the market, a corporate carrier that maximize effectivity and decrease wasted time, so you can focal point on what matters.",
+      "paragraph3":"All of our solutions are entirely transparent, there are no hidden costs, we apprehend your needs and supply dynamic low in cost solutions designed to aid your business, we provide whole enterprise solutions, from business enterprise formation and advisory offerings to sponsorship and visa services, we help set up your commercial enterprise in Dubai and the UAE quick and easy.",
+      "paragraph4":"Most business setup procedures drain energy and time, a lot of paperwork, regulations change quickly in UAE, your valuable time is wasted running between several departments, following up transactions and approvals. We’re building a one-stop-shop for all your business needs, a better way to stay focus and operate your actual business in the market, a corporate service that maximize efficiency and minimize wasted time, so you can focus on what matters.",
+      "paragraph5":"All of our solutions are fully transparent, there are no hidden costs, we recognize your needs and deliver dynamic cost-effective solutions designed to support your business, we offer complete business solutions, from company formation and advisory services to sponsorship and visa services, we help set up your business in Dubai and the UAE fast and easy.",
+      "semi-heading1":"Our Experince",
+      "paragraph6":"We operate in the commercial enterprise consulting and company offerings industry, we work intently with authorities departments and local authorities, with our many years of journey in incredible carrier throughout a number of sectors, we have gathered beneficial market information that constantly helps us set up groups in Dubai with unmatched finesse and strategy. We apprehend the intricacies of the enterprise setup in UAE, we have set up our place as one of the innovating agencies in the enterprise via tough work and unmatched dedication to service, we are the agency with an ultimate answer to your company formation.",
+      "semi-heading2":"Our Team",
+      "paragraph7":"Our enterprise setup professionals are dedicated to delivering extremely good agency formation offerings and building lengthy relationships with our clients, our team’s dedication to your motive is only matched by their passion, we are well-equipped with creative and hardworking personnel who are devoted to attaining your goals.",
+      "paragraph8":"Here at Al Phoronya, your delight and success are our challenges, we channel all vital sources and body of workers wanted into the profitable setup of your company, we provide the quality fee at suitable prices, our aim as a enterprise setup association is to constantly cater or our clients, supplying them with full aid in the development of their company.",
+      "semi-heading3":"Why Us?",
+      "mini-heading1":"Transparency",
+      "paragraph9":"Our work ethics and organizational believes are built on honesty and integrity in service. We offer particularly aggressive prices and a obvious billing machine with no hidden charges.",
+      "mini-heading2":"Time Saving",
+      "paragraph10":"We recognize quite properly time is of the essence in the commercial enterprise world. Our PRO service is unmatched in phrases of pace and efficiency. We install all essential sources in getting your license inside days.",
+      "mini-heading3":"Reliability",
+      "paragraph11":"Our enterprise trip is a high-quality you can bank on to get your enterprise formation executed besides a hitch. Your trust is our most treasured asset.",
+      "mini-heading4":"Focus",
+      "paragraph12":"Setting up your business efficaciously in the shortest time frame is our paramount objective. We choose only the fine for all our clients, we therefore, manage your business setup with uttermost finesse.",
+      "semi-heading4":"Setup Your Business Today!",
+      "contact":"Contact Us"
+    },
+    "contact":{
+      "first-section":{
+        "address":{
+          "heading":"Address:",
+          "desc":"P.O. Box: 68404, BlueBerry Building, Business Pay, Dubai - U.A.E"
+        },
+        "contact":{
+          "heading":"Contact:",
+          "desc1":"medhat@alkawkabalraqi.com",
+          "desc2":"+971 4 227 4826"
+        },
+        "opening-hours":{
+          "heading":"Opening Hours:",
+          "desc":"24 / 7"
+        }
+      },
+      "second-section":{
+        "semi-heading":"Contact Us",
+        "heading":"Get In Touch",
+        "paragraph1":"If you have any inquiries or questions, please get in touch with us using the contact form, and we will get back to you shortly.",
+        "paragraph2":"We look forward to hearing from you!",
+        "input1":"Name",
+        "input2":"Email",
+        "input3":"Website",
+        "input4":"Message",
+        "submit":"Submit"
+      }
+    },
+    "mainland":{
+      "heading":"Your Mainland Company Formation in Dubai Made Easy",
+      "centered-heading1":"What are the legal forms of a Dubai mainland company?",
+      "centered-heading2":"The Required Documents to Set up a Mainland Company in Dubai",
+      "semi-heading1":"How to Form A Company in Dubai Mainland?",
+      "semi-heading2":"1. Commercial license",
+      "semi-heading3":"2. Professional license",
+      "semi-heading4":"3. Industrial license",
+      "semi-heading5":"4. Tourism license",
+      "semi-heading6":"1. Sole Establishment",
+      "semi-heading7":"Advantages:",
+      "semi-heading8":"Disadvantages:",
+      "semi-heading9":"2. One Person Company (LLC):",
+      "semi-heading10":"Advantages:",
+      "semi-heading11":"Disadvantages:",
+      "semi-heading12":"3. Civil Company:",
+      "semi-heading13":"Advantages:",
+      "semi-heading14":"Disadvantages:",
+      "semi-heading15":"4. Limited Liability Company (LLC):",
+      "semi-heading16":"Advantages:",
+      "semi-heading17":"Disadvantages:",
+      "semi-heading18":"5. Branch of a Foreign Company:",
+      "semi-heading19":"6. Representative Office:",
+      "semi-heading20":"For individual Shareholders:",
+      "mini-heading1":"Benefits of A Branch Company:",
+      "mini-heading2":"For Corporate Shareholders:",
+      "paragraph1":"Entrepreneurs and traders select Dubai for their organisation formation because of its funding versatility and strategic market location. A mainland company is a criminal entity registered under the Dubai Economic Department (DED). and ruled by way of the UAE business enterprise law (Federal Law No. 2 of 2015). Dubai is a hastily growing world marketplace with tons of promising funding opportunities. This has significantly contributed to the challenges encountered in forming a mainland organisation in Dubai. Dubai mainland provides better blessings in phrases of business enterprise expansion and funding opportunities as towards the free zones in UAE. Mainland businesses are accredited to exchange somewhere in UAE or wider Gulf Cooperation Council (GCC) states.",
+      "paragraph2":"This enterprise setup in Dubai mainland is a stepwise undertaking that includes;",
+      "paragraph3":"The first step in the formation of a mainland agency in Dubai, is deciding on the corporation legal form. This determines the shape of the company and the type of business exercise they can be involved in, the economic branch in Dubai (DED) has over 2000 on hand activities.",
+      "paragraph4":"The Commercial license is the most frequent trade license in Dubai, it consists of all types of commercial activities, it can additionally encompass some professional activities, if approved by the Dubai Economic Department, the things to do should be linked to each other, most investors pick out the accepted trading activity, this allows them to exercise more than one direct buying and selling things to do in one license, and permits them to import and export almost any product to Dubai, without buying and selling of some merchandise which requires approvals from other authorities departments such as jewelry, magazines and newspapers trading, the felony form can be sole institution for locals and GCC nationals or LLC.",
+      "paragraph5":"This license type is the easiest to do, it should include professional things to do only, typically new traders go for this type because of the cost, it’s more cost-effective from the different types and you can rapidly trouble the license, all consultancy activities have to take a shape of a professional license, the felony form can be either a sole establishment or a civil agency in case of greater than one investor, this license type is handy to form, amend and cancel, some professional things to do include: Consulting, typing, drawing, and designing.",
+      "paragraph6":"This license is issued for industrial and manufacturing activities, it usually takes a form of an LLC, the area of the license should be a warehouse or a factory, the location can be an office for the first yr if authorized by using DED, Most of the industrial activities require external approvals that include: ministry of economy, civil defense, municipality, and other departments, some industrial things to do include: manufacturing, packaging, filling and producing of many products. producing of many products.",
+      "paragraph7":"This license kind is issued for tourism things to do only, the shape is commonly an LLC, it requires the approval of The Department of Tourism & Commerce Marketing (DTCM), for the most activities, the requirements consist of an insurance policy, you need to hire an office in Dubai mainland, the minimum area is usually 300 rectangular feet, some tourism activities include: inbound and outbound tours, inn and travel agency.",
+      "paragraph8":"A sole establishment is owned with the aid of a single man or woman mostly referred to as a sole proprietor. The sole proprietor owns a hundred percent of the sole establishment. A corporate body or a crew of humans can’t set up a sole establishment. A sole establishment is accredited to lift out a wide variety of activities in the commercial, industrial and professional sector in Dubai. If the sole proprietor happens not to be a country wide of UAE or GCC, a UAE country wide will be appointed on contract as a Local Agent for the establishment. This local agent will be paid an annual fee for representing the corporation in liaising with the government for licenses and labor card, the Sole institution can appoint one supervisor solely as per DED enterprise regulations, however it can have more than one branched inside Dubai.",
+      "paragraph9":"The one-person restrained liability enterprise is owned by one natural or one company body, it consists of one individual only. It is comparable to the sole institution but it differs in some provisions, the most essential of which is that its liability is confined to the single partner, whereas in the sole-proprietorship the liability is unlimited, a nearby a GCC countrywide can set up and personal a one-person company (LLC), the trade identify of this employer need to by: Shareholder’s name + the pastime + the legal shape + LLC, it can have up to 11 managers, the supervisor can be of any nationality.",
+      "paragraph10":"Dubai’s flourishing financial system offers extremely good investment opportunities for Professional buyers searching to establish a civil business enterprise in UAE. A civil agency is a enterprise partnership for professionals. The shareholders of civil enterprise can be of any nationality. If the owners are nationals of a country other than the UAE or the GCC, they require a Local Service Agent (LSA). The Local Service Agent will help in the acquiring of a expert license, visas, labor card and a number different documents from worried authorities. There is no minimal capital requirement for the setup of a civil employer in Dubai, a civil employer can practice consultancy things to do but need to be one hundred percent owned by way of expert partners, it can appoint one manager only as per the DED business regulations.",
+      "paragraph11":"The Limited Liability Company is the most frequent prison form in Dubai due to the a number option of buying and selling exercise it provides. LLC is licensed to carry out industrial, commercial, professional and even tourism things to do in Dubai. LLC should have between 2-50 shareholders. 51% share quantity of a Limited Liability Company need to mandatorily be owned by way of a local sponsor or partner who is a UAE national. The shareholder’s legal responsibility is restricted to their extent of share in the company’s capital though investors retain most prison possession of LLC in Dubai, LLCs can exercise any industrial, commercial, expert or tourism activity.",
+      "paragraph12":"Many overseas companies are trying to find to open branch workplaces in Dubai because of its numerous change benefits. A department of a foreign agency can practice expert activities which includes some industrial and industrial activities with a different permit from the Ministry of Economy. The employer branch basically grant a branding provider for the dad or mum employer and can also be involved in the provision of carrier and merchandise in Dubai. The branch corporation ought to operate under the identify of the mum or dad company and supply the equal services as the guardian company. Foreign corporations require the carrier of a local agent for the formation of a department workplace in Dubai. The Local Agent will liaise with the government for the issuance of alternate licenses and labor permits.",
+      "paragraph13":"Foreign companies establish consultant workplaces in Dubai for the sole cause of merchandising their activities. A consultant workplace is now not a business structure in its own, but alternatively a business endeavor that a overseas branch can habits in the promoting of its merchandise and services. A Local Service Agent is required in the formation of the representative office in Dubai. The gotten smaller Local Service Agents represents the company in liaising with the authorities for obtaining licenses. Dubai authorities gives a 100% foreign possession of this kind of establishment. Foreign investors do not require neighborhood sponsor or partners in the formation of a representative workplace in Dubai.",
+      "paragraph14":"Representative workplaces in Dubai are allowed to carry out industrial activities of the mother or father company only after due registrations and allow issuance from the following authorities authorities:",
+      "paragraph15":"Representative workplace formation in Dubai requires serious paper works and vital decision-making processes. With our full assist and assistance, your consultant workplace will be up and walking in no time. Our many years of experience in Dubai mainland commercial enterprise setup will assist us supply you with the satisfactory representative office setup strategy.",
+      "paragraph16":"Note: Some nationalities may require a security approval at the time of submission, for these nationalities the shareholder is required to be present, additionally the shareholder should bring the original passport and 6 months bank statement from the resident country.",
+      "paragraph17":"According to the Department of Economic Development (DED) the required Contract for issuing a mainland license in Dubai is showing below:",
+      "ul1":{
+        "li1":"Selection the right organization undertaking – which will determine the type of license.",
+        "li2":"Choosing the nearby Sponsor for LLCs or Local carrier agent for Establishments.",
+        "li3":"Insurance of initial approval and choice of trade name.",
+        "li4":"Preparation of MOA or LSA settlement and notarizing it.",
+        "li5":"Acquisition of tenancy contract after discovering a suitable office.",
+        "li6":"Getting the extra approvals from the associated government departments.",
+        "li7":"Final submission of files to DED and issuing the change license."
+      },
+      "ul2":{
+        "li1":"Easy setup and closure",
+        "li2":"Sole hazard Bearer and income recipient",
+        "li3":"Absolute control",
+        "li4":"No personal earnings taxes",
+        "li5":"No capital",
+        "li6":"Low cost"
+      },
+      "ul3":{
+        "li1":"Unlimited Liability.",
+        "li2":"Lack of sufficient resources",
+        "li3":"Lack of enough managerial skills",
+        "li4":"Lack of business continuity",
+        "li5":"No Separate entity",
+        "li6":"Low cost"
+      },
+      "ul4":{
+        "li1":"Easy setup and closure",
+        "li2":"Sole danger Bearer and income recipient",
+        "li3":"Absolute control",
+        "li4":"No personal profits taxes",
+        "li5":"Limited Liability",
+        "li6":"Low Cost"
+      },
+      "ul5":{
+        "li1":"Lack of sufficient Resources",
+        "li2":"Lack of enough managerial skills",
+        "li3":"Lack of enterprise continuity"
+      },
+      "ul6":{
+        "li1":"Easy formation and closure",
+        "li2":"Sole chance Bearer and earnings recipient on the partners",
+        "li3":"Absolute control",
+        "li4":"Medium Cost"
+      },
+      "ul7":{
+        "li1":"Unlimited Liability",
+        "li2":"Lack of commercial enterprise continuity",
+        "li3":"No Separate entity"
+      },
+      "ul8":{
+        "li1":"Unlimited visa quota.",
+        "li2":"Easy growth of business",
+        "li3":"The absence of enterprise interruption by the sponsor or the partners.",
+        "li4":"Properties and property would belong to the company, now not the partners.",
+        "li5":"Investors are permitted to have credit playing cards and financial institution accounts in Dubai",
+        "li6":"Full repatriation of capital and profits",
+        "li7":"No personal and capital taxes",
+        "li8":"No company taxation"
+      },
+      "ul9":{
+        "li1":"Sponsors are required most of the time for monetary activities considering the fact that they own 51% of the agency shares.",
+        "li2":"Sponsors are by some means liable for the company management the investor leaves the UAE."
+      },
+      "ul10":{
+        "li1":"No private and capital taxes",
+        "li2":"No company taxation",
+        "li3":"Full repatriation of capital and profits",
+        "li4":"No restriction on currency",
+        "li5":"Competitive import duties (5% with many exemptions)",
+        "li6":"Considered as and an offshore business enterprise in Dubai",
+        "li7":"An effortless group of workers recruitment technique"
+      },
+      "ul11":{
+        "li1":"Dubai Economic Department",
+        "li2":"Ministry of Economic and Commerce.",
+        "li3":"Chamber of Commerce."
+      },
+      "ul12":{
+        "li1":"Passport copy + EID copy of all the shareholders",
+        "li2":"NOC from current employer for all nationalities except locals and GCC nationals",
+        "li3":"In case the shareholder arrived visit visa, a copy of the visa + entry stamp"
+      },
+      "ul13":{
+        "li1":"Trade license copy or registration certificate",
+        "li2":"Board of resolution for the company to be a shareholder",
+        "li3":"All documents must be attested by MOFA and translated to the Arabic language",
+        "li4":"Manager passport copy and visa copy"
+      }
+    },
+    "llc":{
+      "heading":"LLC Company Formation in Dubai, UAE",
+
+      "semi-heading1":"What an LLC means in Dubai?",
+      "semi-heading2":"Where Can You Start a Limited Liability Company (LLC)",
+      "semi-heading3":"Steps to Setting Up an LLC Company in Dubai:",
+      "semi-heading4":"LLC Company Formation in Dubai Free Zones",
+      "semi-heading5":"Protect your LLC Company in Dubai",
+      "semi-heading6":"How to Convert Your Company to LLC",
+      "semi-heading7":"The Required Documents to Form an LLC Company in Dubai",
+
+      "mini-heading1":"Advantages of Setting Up an LLC in Dubai:",
+      "mini-heading2":"Disadvantages of LLC Registration in Dubai:",
+      "mini-heading3":"For individual Shareholders:",
+      "mini-heading4":"For Corporate Shareholders:",
+
+      "paragraph1":"The LLC company setup in Dubai is an excellent choice for investors who look to expand their businesses and are interested in great investment opportunities in Dubai. Investors prefer Dubai for their company formation because of its positioning and rate of market growth over the years. A Limited Liability Company (LLC) in Dubai is a legal entity which is registered under the Economic Department (DED). The LLC formation in Dubai is no easy task to go about. Without the proper guidance and advice, it takes time and lots of paperwork to establish a Limited Liability Company. Al Phoronya experts provide holistic assistance which ensures your license is ready within days.",
+      "paragraph2":"There are a number of types of LLC alternate license in Dubai. The typical buying and selling license is the most frequent of them all. Investors decide upon this kind of LLC license due to the fact it encompasses all trading activities barring these that require special approval through government authorities. The frequent trading license offers a magnificent funding chance for investors including the import and export commercial enterprise in Dubai. The downside to the widely wide-spread buying and selling license is the fee of acquisition in contrast to different activities. With the aid of Al Phoronya’s corporation registrations experts, your time-honored trading license will be equipped in no time.",
+      "paragraph3":"An LLC or restricted liability agency is a company structure whereby the participants of the organization are no longer individually liable for the company’s money owed or liabilities. it is the most frequent prison form in Dubai and UAE. An LLC should have between 2-50 shareholders, and it can have 1-11 managers for the business. At least 51% of LLCs ought to be owned with the aid of UAE Nationals, and can be owned with the aid of GCC nationals via up to 100%. it can be owned with the aid of companions of any nationality in accordance with DED regulations, it must have a name derived from its endeavor or from the name of one partner, it can have more than one branch. Each may additionally undertake one or all the things to do of the primary license",
+      "paragraph4":"A restrained legal responsibility business enterprise can be issued anywhere in UAE, this includes the seven emirates, every emirate has a separate monetary department, or issuing authority which is approved to problem the LLC license, Free zones can trouble LLC licenses also. The Economic Department in Dubai has over 2000 activities, the majority of these things to do can be used in an LLC, although the typical trading on my own consists of all direct buying and selling things to do that require no exceptional approval, the LLC organization can have any commercial, industrial and tourism activity, besides most professional activities.",
+      "paragraph5":"Many Free zones in UAE issue LLC licenses. Forming an LLC business enterprise in a Free region is simpler than a mainland enterprise formation in some cases, foreigners can have a hundred percent ownership, barring some free zones are exempted from VAT. The Free Zone LLCs are wonderful for import and export business, there are no custom expenses for importing and exporting products, but the commercial enterprise activities are restrained to the Free quarter areas, if you determined to increase the organization operations interior Dubai, you have to use a business accomplice or open a branch internal Dubai.",
+      "paragraph6":"This license is issued for industrial and manufacturing activities, it usually takes a form of an LLC, the area of the license should be a warehouse or a factory, the location can be an office for the first yr if authorized by using DED, Most of the industrial activities require external approvals that include: ministry of economy, civil defense, municipality, and other departments, some industrial things to do include: manufacturing, packaging, filling and producing of many products. producing of many products.",
+      "paragraph7":"Starting an LLC in Dubai can have few risks, your LLC in UAE free zones will be owned by means of you 100%, however in case you want to begin you LLC business enterprise in Mainland you think about a few things, in accordance to the law 51% of DED companies’ shares be owned with the aid of a neighborhood sponsor, this can hazard your funding in the long run, particularly if you disagree with the neighborhood sponsor, or if he determined to maintain the shares, so how can you defend your enterprise in Dubai?",
+      "paragraph8":"If you are an proprietor of a DED organisation in Dubai, and if you modern-day criminal structure is a sole establishment or a civil company, you can convert your company prison shape into a limited legal responsibility organisation (LLC), you will have all the LLC benefits barring changing your contemporary enterprise pastime or exchange name, there are few stipulations to successfully exchange your enterprise into an LLC:",
+      "paragraph9":"Note: Some nationalities may require a protection approval at the time of submission, for these nationalities the shareholder is required to be present, moreover the shareholder need to convey the unique passport and 6 months bank statement from the resident country.",
+      "paragraph10":"According to the Department of Economic Development, the LLC possession policies and necessities are:",
+
+      "ul1":{
+        "li1":"Select the activity in accordance to the Dubai economic department. Each alternate license in Dubai can preserve a unique group of activities.",
+        "li2":"Getting the preliminary approval and acquisition of exchange identify from Dubai Economic Department (DED).",
+        "li3":"Acquisition of exceptional approvals for some license activities if needed. This ought to be performed earlier than signing any agreement. This is to keep away from any issues all through the corporation formation process.",
+        "li4":"All documents must be translated into Arabic by an legitimate translator before they can be presented to the authorities in the UAE.",
+        "li5":"Preparation of the MOA, all the companions need to by present to sign it in the front of the Notary Public. If any of the companions can not come to sign, the accomplice can give a power of legal professional to any character and the person would be in a position to signal on his/her behalf.",
+        "li6":"Acquisition of tenancy contract.",
+        "li7":"Submission of the papers to DED.",
+        "li8":"Finally, issuing the Dubai LLC license."
+      },
+      "ul2":{
+        "li1":"No company or personal earnings tax",
+        "li2":"The Dubai LLC formation affords unequalled get admission to to the wider UAE economy",
+        "li3":"Liability of the share holders is restrained to their shares in the company’s capital",
+        "li4":"The shareholders will have no non-public Liability for the LLC’s Debts",
+        "li5":"LLC may additionally behavior any type of activity",
+        "li6":"LLC can legally alternate somewhere in the UAE, which includes the Free Zones",
+        "li7":"Investors can get a residence visa except paying any bank or security deposit",
+        "li8":"No restrictions on the vicinity where the corporation can rent/buy office premises",
+        "li9":"No restrictions on the location where the company can rent/buy office premises",
+        "li10":"The authorities has completely waived any paid-up capital requirements.",
+        "li11":"Can without difficulty open a corporate bank account and get credit score facilities.",
+        "li12":"Can very own a real estate or buy shares in different companies."
+      },
+      "ul3":{
+        "li1":"Takes more time to set up besides the instant license",
+        "li2":"Costly and time-consuming one of a kind approvals may also be required from UAE authorities",
+        "li3":"Requires a neighborhood partner to have 51% of the shares"
+      },
+      "ul4":{
+        "li1":"Use a professional corporation to do your LLC business enterprise setup and discover a local business partner for you",
+        "li2":"The local ought to be trusted and ought to be in the enterprise of the company’s sponsorship",
+        "li3":"Protect your enterprise through signing greater felony agreements between you and the sponsor",
+        "li4":"Get a power of attorney from the local sponsor to control the full shares and represent the company",
+        "li5":"Keep a proper relationship with the local sponsor and attempt usually the pleasant solutions in case of disagreement",
+        "li6":"You can add an more layer of protection by way of issuing a precise legal responsibility insurance plan policy to defend your LLC and private assets"
+      },
+      "ul5":{
+        "li1":"The Economic Department in Dubai ought to approve the criminal form change.",
+        "li2":"Your business enterprise undertaking mustn’t be a consultancy such as management consultancy, IT consultancy…etc.",
+        "li3":"There ought to be no remarks or courtroom cases against the company, all remarks should be cleared before the DED approval.",
+        "li4":"You have to add a nearby sponsor and to have 51% shares of the company, the genuine shareholders will divide the rest 49% between them.",
+        "li5":"A new memorandum of affiliation need to be signed in front of the notary public in Dubai.",
+        "li6":"You can use the identical change name after including the phrase “LLC” after the modern enterprise name.",
+        "li7":"If you do not have a organisation supervisor or director you ought to employ one, a shareholder can be the manager also.",
+        "li8":"All the debts and liabilities on the modern agency will be mechanically transferred to the new LLC.",
+        "li9":"The supervisor will be cost of all the financial institution debts and signing the cheques."
+      },
+      "ul6":{
+        "li1":"Application form signed through all the shareholders",
+        "li2":"Passport reproduction + EID replica of all the shareholders",
+        "li3":"Passport copy + EID replica + Family book copy for the local",
+        "li4":"NOC from contemporary enterprise for all nationalities barring locals and GCC nationals",
+        "li5":"In case the shareholder arrived visit visa, a copy of the visa + entry stamp",
+        "li6":"All shareholders and the supervisor should be 21 years historic or above",
+        "li7":"If the shareholder is below 21, the criminal guardian must signal the official documents",
+        "li8":"The shareholders and the supervisor must enter the united states to get the approval"
+      },
+      "ul7":{
+        "li1":"License reproduction or certificate of incorporation",
+        "li2":"Board resolution for the organisation to be a shareholder",
+        "li3":"All archives have to be attested by MOFA and legally translated into the Arabic language",
+        "li4":"Manager passport copy and visa reproduction + entry stamp"
+      }
+    },
+    "freezone":{
+      "heading":"Start a Free Zone Company Anywhere in UAE",
+
+      "semi-heading1":"What is Free Zone?",
+      "semi-heading2":"Free zones in UAE",
+      "semi-heading3":"Dubai Free Zones",
+      "semi-heading4":"Abu Dhabi Free Zones",
+      "semi-heading5":"Ajman Free Zones",
+      "semi-heading6":"Fujairah Free Zones",
+      "semi-heading7":"Umm Al Quwain Free Zones",
+      "semi-heading8":"How to Start a Business in a Free Zone?",
+
+      "mini-heading1":"Dubai Airport Free Zone (DAFZA)",
+      "mini-heading2":"Jebel Ali Free Zone (JAFZA)",
+      "mini-heading3":"Dubai Multi Commodities Centre (DMCC)",
+      "mini-heading4":"Dubai International Financial Centre (DIFC)",
+      "mini-heading5":"Dubai World Trade Centre (DWTC)",
+      "mini-heading6":"Dubai Knowledge Park (DKP)",
+      "mini-heading7":"Dubai Internet City (DIC)",
+      "mini-heading8":"Dubai Media City (DMC)",
+      "mini-heading9":"Dubai Silicon Oasis (DSOA)",
+      "mini-heading10":"Dubai Healthcare City – Regulatory (DHCR)",
+      "mini-heading11":"International Free Zone Authority (IFZA)",
+      "mini-heading12":"Dubai South",
+      "mini-heading13":"Khalifa Industrial Zone Abu Dhabi (KIZAD)",
+      "mini-heading14":"Masdar City Free Zone (MASDAR)",
+      "mini-heading15":"Abu Dhabi Airport Free Zone (ADAFZ)",
+      "mini-heading16":"Media Zone Authority (Twofour54)",
+      "mini-heading17":"Abu Dhabi Global Market (ADGM)",
+      "mini-heading18":"Sharjah Free Zones",
+      "mini-heading19":"Sharjah Media City (Shams)",
+      "mini-heading20":"Hamriyah Free Zone (HFZA)",
+      "mini-heading21":"Ajman Free Zone (AFZ)",
+      "mini-heading22":"RAK Free Zones",
+      "mini-heading23":"Creative City Fujairah",
+      "mini-heading24":"Umm Al Quwain Free Trade Zone Authority (UAQ FTZ)",
+      "mini-heading25":"Advantage of A Free Zone Company Formation",
+
+      "paragraph1":"UAE has come to be a world trading center where humans from round the world converge for the cause of trading. The free zone organization formation is a most important issue that has contributed to its rapid financial growth. The flexibility of laws regulating the establishment and strolling of corporations is Dubai free zones has made it a sought-after market.",
+      "paragraph2":"The UAE free zones are not regulated with the aid of the business legal guidelines set up by using the Ministry of Commerce to alter the trading activities of mainland companies. The free zones provide overseas traders and entrepreneur’s 100% commercial enterprise ownership freedom in addition to a tax-free and free custom duty charges. This list of benefits free zones gives has made it an ideal vacation spot for worldwide companies to operate. To open a company in Dubai free zone, nearby companions or neighborhood carrier retailers are not required.",
+      "paragraph3":"The Free quarter meaning or Definition might also vary according to the type of Free zone, however in general, it is a geographic vicinity where goods may also by way of landed, stored, handled, manufactured, or reconfigured, and re-exported below unique customs rules and generally now not situation to customs duty.",
+      "paragraph4":"Free zones are separate entities and no longer governed by way of the UAE labor law, the corporations underneath the free area areas have their own set of rules and regulations, and comparable to the offshore companies, no need for a local sponsor to open a free sector business enterprise and the corporation can be 100% owned be non-UAE or GCC nationalities.",
+      "paragraph5":"UAE boasts of extra than 40 free zones with extra beneath construction. The Free Zone organisation formation in UAE might come as a problematic one as there are quite a few options of free zones to pick from. With our know-how and ride in business setup, we will aid you in narrowing down to the gorgeous free region suitable for your enterprise and help you set up your free region enterprise in no time. The primary free zones in UAE are:",
+      "paragraph6":"Setting up your enterprise at DAFZA capability becoming a member of one of the fastest growing Free Zones in the UAE. Strategically located adjacent to the Dubai International Airport, organizations in DAFZA leverage special benefits in market access, tax exemptions, and world-class facilities. Three simple steps are required to begin enterprise activities in the free zone.",
+      "paragraph7":"JAFZA, the change catalyst, has advanced into a special change ecosystem that reduces cost, while enabling new opportunities for growth. Today, JAFZA is a dynamic base for hundreds of businesses, from over a hundred countries, sustaining over 135,000 jobs and attracting extra than 20% of the UAE’s foreign direct investment; all the while exceeding 50% of Dubai’s total exports, with a exceptional fee for trade of $69 billion.",
+      "paragraph8":"Made for Trade, DMCC has firmly established Dubai as a main core for trading international commodities and the world’s fastest-growing Free Zone. DMCC regulate, promote and facilitate change throughout a range of goods from gold, diamonds, and precious metal to tea, food, and industrial materials. Today, as domestic to primary multinationals and start-ups, DMCC connect extra than 15,000 organizations with the world-class services, main infrastructure and a shiny neighborhood they want to thrive and succeed.",
+      "paragraph9":"DIFC is a international economic middle strategically placed between the East and West, providing a stable and tightly closed platform for groups and economic institutions to faucet into the emerging markets of the Middle East, Africa and South Asia. The Centre’s internationally identified and unbiased regulation, common law framework, tax-friendly regime, and enabling surroundings make the perfect hub to get right of entry to the region’s hastily growing demand for economic and enterprise services.",
+      "paragraph10":"The Dubai World Trade Centre has played a pivotal function in the increase of global change for the Middle East, ever due to the fact that the inauguration in 1979. Then, it used to be via the landmark 39-storey Sheikh Rashid Tower. Today, DWTC is the region’s biggest purpose-built complicated for events and exhibitions, DWTC performs a principal role within Dubai’s economy, attracting income for the city’s sights, restaurants, and inns each year.",
+      "paragraph11":"Established in 2003 as section of TECOM Group, Dubai Knowledge Park (DKP) objectives to improve the region’s Genius pool and establish the UAE as a knowledge-based economy. DKP is a unique hub that presents the fantastic determination of packages in Human Resource Management (HRM). Consultancy, Training, and Personal Development Students acquire diplomas and certificates of the very best caliber from DKP’s top-class Business Partners.",
+      "paragraph12":"Dubai Knowledge Park offers flexible solutions with aid from its progressive purchaser service team. With their assistance. DKP enterprise companions have set up training centers, institutes, and HR businesses to maintain and impervious their market share in this booming sector.",
+      "paragraph13":"DIC is a innovative collective engineered for innovation. DIC neighborhood of entrepreneurs, startups, facilitators, and Fortune five hundred agencies is busy creating the future of regional ICT and disrupting the status quo. DIC is the MENA region’s largest ICT hub, with liberal regulations that facilitate business success. DIC fosters entrepreneurs, empowers SMEs, and attracts global ICT leaders to Dubai. Here is where your commercial enterprise accesses a prosperous ecosystem a prosperous ecosystem of know-how workers, nimble service providers, and information from the world over.",
+      "paragraph14":"DMC is a stimulating surroundings can encourage the next innovative masterpiece. Dubai Media City (DMC), was launched in January 2001 to set up Dubai as the region’s main media hub. DMC encompasses a media community of over 20,000 human beings working in over 2,000 regional and international media corporations that are pushing the limits of creativity each and every day.",
+      "paragraph15":"Dubai Silicon Oasis Authority (DSOA), a a hundred percent government-owned free zones, used to be set up following Law no 16 of 2005 of the Government of Dubai, with the Mission to “facilitate and promote modern technology-based industries” consequently supporting the region’s demand for enterprise expansion. A full package of incentives and advantages are provided to organizations working within the free zone. Dubai Silicon Oasis (DSO) is a technological know-how park and gives both a living and working integrated community.",
+      "paragraph16":"Dubai Healthcare City Authority – Regulatory (DHCR) is an independent regulatory arm of Dubai Healthcare City Authority (DHCA). The DHCA is the governing body of Dubai Healthcare City (DHCC) – a health and wellbeing vacation spot in the world’s greatest healthcare free zone.",
+      "paragraph17":"DHCR regulates the free quarter and reviews immediately to the DHCA Board. It is responsible for making sure compliance and enforcement of international best requirements for medical and non-clinical facilities. It additionally oversees the licensing of all healthcare professionals, educators, and operators, and the setting and maintenance of worldwide satisfactory healthcare practices inside DHCC.",
+      "paragraph18":"IFZA is set to shortly become a leading investment hub within the thriving UAE economy, supplying a relatively customized approach, coupled with efficient international provider requirements and in your price range solutions. With IFZA, it is actually al about the patron and their trip to commercial enterprise success.",
+      "paragraph19":"Dubai South is an economic quarter that supports several activities including logistics, aviation, commercial, exhibition, humanitarian, residential and other related businesses. The Business Centre at Dubai South is expertly designed to facilitate the increase of each and every commercial enterprise from start-ups to SMEs. Offering complete turnkey business offerings and low-cost workplace options it it perfectly aligned to go well with world commercial enterprise needs.",
+      "paragraph20":"KIZAD gives you unique blessings – considerable size, world-class infrastructure, free zone, and non-free sector solutions, dedicated investor support, tax-free environment with competitive running costs and strategic area with get right of entry to to regional and global markets. These contribute to making KIZAD one of the world’s main port-integrated industrial zones and a leading hub for manufacturing, logistics, and exchange across diverse sectors.",
+      "paragraph21":"Centrally located at the crossroads of the Middle East and Asian markets, with a robust international logistics and transport network, Masdar City also affords companies a one-stop platform for opening a business. The services encompass organization registration, office leasing and fast-track visa processing in a safe and pleasant working environment.",
+      "paragraph22":"Abu Dhabi Airports Free Zone is the new global commercial enterprise tackle for the world, providing its customers with numerous merchandise within a Free Zone environment. Abu Dhabi Airports Free Zone affords its customers the full spectrum of Free Zone services, along with business enterprise registration, licensing, leasing, rapid visa processing for employees, and many different terrific offerings within a One Stop Shop environment.",
+      "paragraph23":"Twofour54 is a media free region positioned at the coronary heart of one of the quickest developing media markets in the world with alluring financial advantages for groups such as an easy licensing and enterprise set-up services, one hundred percent organization possession in a secure environment. A place where some of the biggest names in the industry call home and the best area for your business, huge or small, to thrive and prosper.",
+      "paragraph24":"Abu Dhabi Global Market is a broad-based international economic middle for local, regional and worldwide institutions, mounted in accordance with the Federal Law No (8) of 2004, Federal Decree No (15) of 2013, Cabinet Resolution No (4) of 2013, and Abu Dhabi Law No (4) of 2013. ADGM’s three unbiased authorities – the Registration Authority, the Financial Services Regulatory Authority (FSRA) and ADGM Courts – ensure that our business-friendly surroundings operates in line with international quality practices that are identified via main financial facilities across the world.",
+      "paragraph25":"Sharjah Airport International Free Zone offers some of the most attractive commercial enterprise incentives in the region, such as pace of carrier and simplicity of the process. The grasp of lengthy and fantastically bureaucratic techniques to set up in the Middle East can be a serious barrier to attainable investors but SAIF-ZONE has a 24-hour licensing provider which permits agencies to be up and going for walks faster than has ever been possible before. The patron base is amongst the greatest in the world from one central hub, with get right of entry to to more than two billion human beings inside a four-hour flight and as one of the most dynamic Emirates in the UAE.",
+      "paragraph26":"Sharjah Media City (Shams) was once launched in January 2017 to act as a catalyst for creative and media companies to develop and thrive. Aiming to be a world-class media hub for progressive facilities and services, Shams covers a large range of commercial enterprise things to do available for those wishing to embark on their entrepreneurial experience in the UAE.",
+      "paragraph27":"Hamriyah Free Zone, UAE’s 2nd largest industrial free quarter is unfold across approx. 26 million square meters. Established on November 12, 1995, with the aid of Emiri Decree No. 6 of 1995, it is home to over 6,500 groups from 163 countries. In addition to world-class facilities consisting of offices, warehouses, factories, and government workplace suites, Hamriyah Free Zone also has over 15 on-site key commercial enterprise services, like banking and auditing firms, forex exchanges, convention rooms, staff accommodation, and more.",
+      "paragraph28":"Established in 1988, Ajman Free Zone (AFZ) presents terrific funding possibilities to both nearby and foreign businessmen and investors. We supply progressive infrastructure and top-of-the-line services to foster aggressive privileges permitting corporations to recognize their full potentials. Ajman Free Zone has revolutionized the commercial enterprise zone of the United Arab Emirates (UAE) thru its gigantic initiative in Ajman industrial expansions.",
+      "paragraph29":"Based in the coronary heart of Ras Al Khaimah, we had been established in 2017 to oversee and consolidate the specialized zones and customers of the two fast-growing free zones in the UAE: RAK Free Trade Zone and RAK Investment Authority. We are one of the main investment hubs in the UAE that gives customizable options to free quarter and non-free quarter businesses. From freelancers and startups to SMEs and industrialists, our multinational neighborhood is flourishing in over 50 industries.",
+      "paragraph30":"Creative City offers licenses to men and women within a Free Zone financial environment. It regulates and processes all authorities formalities, work permits, and visas and simplifies the manner of a commercial enterprise startup. Providing a whole one-stop solution, Creative City provides custom-made services and enterprise packages and ensures expert assistance to its customers at some point of each and every step of a employer formation process.",
+      "paragraph31":"UAQ FTZ is situated close to the UAE’s main seaports and inside one hour’s power of Dubai International Airport and Sharjah International Airport, making sure handy access to the rest of the world. Thanks to UAQ FTZ’s investor-friendly environment, setting up a commercial base in the UAE has by no means been simpler. Forward-thinking SMEs and micro-businesses in particular, will benefit from high quality set-up costs, a hundred percent corporation ownership and zero foreign money restrictions.",
+      "paragraph32":"Free zone business enterprise setup in Dubai isn’t quite as daunting as the mainland enterprise setup. Companies can be registered as Free Zone Establishment (FZE), Free Zone Company (FZC) and consultant or department workplace in Dubai free zone. The representative or department office might also have their principal enterprise backyard or inside UAE. The FZE and FZC are restricted legal responsibility groups (https://www.paso.ae/dubai-llc-company-formation/) and their activities in the free region are regulated via the independent Free Zone Authority (FZA) which are additionally responsible for issuing licenses. Depending on the free sector location and the class of commercial enterprise carried out, the kind of licenses issued varies from one to another. Free area agency formation in Dubai requires following due laid down techniques by way of the FZA.",
+      "paragraph33":"The following processes are the stages involved in the setup of a free zone company:",
+
+      "ul1":{
+        "li1":"Selection of felony entity of choice",
+        "li2":"Selection of trade name",
+        "li3":"Business license application",
+        "li4":"Leasing of office space or land",
+        "li5":"Acquisition of pre-approval",
+        "li6":"Business registration",
+        "li7":"Acquirement of business license"
+      },
+      "ul2":{
+        "li1":"100% foreign ownership",
+        "li2":"No UAE partner or service agent required",
+        "li3":"100% repatriation of capital and profits",
+        "li4":"Total exemption of corporate and income tax",
+        "li5":"Additionally, no duties required to be paid for imports and re-exports",
+        "li6":"No restrictions on the use of currency",
+        "li7":"Access to open a financial institution account in Dubai",
+        "li8":"Entitled to request for UAE residency Visas",
+        "li9":"Allowed to keep shares in other UAE and international agencies"
+      }
+    },
+    "offshore":{
+      "heading":"Offshore Company Formation in Dubai, UAE and Abroad",
+
+      "semi-heading1":"Offshore Company Meaning",
+      "semi-heading2":"JAFZA Offshore Company Formation",
+      "semi-heading3":"RAK Offshore Company Formation",
+      "semi-heading4":"Ajman Offshore Company Formation",
+      "semi-heading5":"International Business Company (IBC)",
+      "semi-heading6":"Cayman Islands company formation",
+      "semi-heading7":"Offshore Bank Account in Dubai",
+      "semi-heading8":"Documents Required for an Offshore Company Registration",
+
+      "mini-heading1":"Benefits of Offshore Companies",
+      "mini-heading2":"Disadvantages of Offshore Companies",
+      "mini-heading3":"For individual Shareholders:",
+      "mini-heading4":"For Corporate Shareholders:",
+
+      "paragraph1":"An offshore agency is every now and then referred to as an international business company. It is a form of criminal entity that permits a employer to gain from low tax or no-tax environment. Offshore companies supply an first-rate device for commercial enterprise and wealth management, smart investment strategies, freedom and ease of enterprise operation. Registered offshore businesses in Dubai are allowed to open multi-currency accounts in the UAE and execute business internationally. Offshore groups are now not allowed to lift out enterprise with the residents or have physical structures in Dubai.",
+      "paragraph2":"The authentic definition of an offshore employer is mainly confused or misunderstood. More times than often, overseas buyers confuse offshore companies in Dubai with free zone companies. Offshore agencies are commercial enterprise companies which are registered in Dubai however setup and operated in an offshore area away from Dubai’s jurisdiction. Many elements are put into consideration in the selection of the place for an offshore company. Dubai offshore businesses can be restricted companies, restricted legal responsibility Companies (LLC).",
+      "paragraph3":"JAFZA is one of the largest Free zones in Dubai, JAFZA offshore was once integrated in 2003, this allows the formation of a non-resident offshore Companies by way of persons or corporates in Dubai, the JAFZA offshore company must have at least one shareholder, a minimum of two directors and a secretary, no minimal share capital, the employer ought to keep accounting records for numerous years. The advantages of Forming a JAFZA offshore organisation that it can very own a real property property or a employer in Dubai mainland, it can additionally open a bank account interior and outside UAE, the JAFZA offshore enterprise is no longer issued with a enterprise license, it solely receives a certificates of incorporation.",
+      "paragraph4":"RAK International Corporate Centre (RAKICC) is a Corporate Registry working in Ras Al Khaimah, it used to be shaped as per the Decree No.12 of 2015 and as amended by using Decree No.4 of 2016, RAKICC is responsible for the registration and incorporation of International Business Companies (IBCs), as nicely as supplying a full suite of Registry offerings related to International Business business enterprise activity, it is a modern, world-class Company Registry operating in full compliance with international standards and fine practices in the International Business enterprise formation industry, the RAK offshore enterprise must have at least one shareholder, a minimal of one director and a secretary, no minimum share capital, the employer need to preserve accounting files for various years, the RAK offshore is one of the cheapest offshore employer formations in UAE.",
+      "paragraph5":"Ajman offshore is section of Ajman Free zone, which opened the offshore registration in 2014, the advantages of registering Ajman offshore corporation is the global recognition, law setup cost, privacy, tax free, no VAT, bendy and has low operational costs, one hundred percent ownership, does no longer require an actual office, can open a financial institution account, no paid share capital and the enterprise is registered except the presence of the shareholders, plus many extra features, all these aspects made Ajman offshore a very fascinating option for investors and businessmen.",
+      "paragraph6":"What is a BVI Company? The BVI organization is an offshore employer positioned in the British Virgin Islands (BVI), the islands located in the Caribbean Sea east of Puerto Rico. The criminal gadget is based totally on English frequent law, no taxes utilized to the BVI companies, a registered agent is required to submit the documents, it have to have minimal of one shareholder and one director, no secretary is required, annual reviews or meetings or financial files are no longer required, these features make BVI businesses a pinnacle desire for global investors.",
+      "paragraph7":"The Cayman Islands also positioned in the Caribbean Sea, the felony device is primarily based on English common law, there are no taxes, it requires one shareholder and one director, no secretary is required, meeting reports or financial information are also not required, to register a Cayman Island corporation you have to have a registered agent. There are different offshore Jurisdictions which are exquisite for worldwide traders such as Seychelles, Bahamas, Mauritius, Anguilla, Singapore, Hong Kong … etc.",
+      "paragraph8":"Most of the offshore Jurisdictions can open a financial institution account inside and outdoor UAE, the banks will review the documents upon completing all the requirements, opening a financial institution account is pretty easy, we endorse opening the financial institution account interior UAE, there are no account opening fees, but nearby banks may require an initial savings to open a organisation account, all banks in UAE have an on-line services to manipulate the bank account and for on line money transfer.",
+      "paragraph9":"A registered agent is required to post the report on behalf of the applicant",
+      "paragraph10":"Offshore companies are very necessary for our client’s property protection, privacy, flexibility and as keeping companies, it opens the door of global investments and assets switch round the world. Paso specialize in the offshore enterprise formations which are registered in Dubai or abroad. Our specialists are well-familiar with the methods involved in the setup of offshore agencies and all documentation required by way of worried departments. We set up your offshore organisation with ease.",
+
+      "ul1":{
+        "li1":"Suitable for assets Protection",
+        "li2":"Flexible regulatory authorities",
+        "li3":"Access to complete anonymity and privacy",
+        "li4":"100% foreign ownership, no UAE nationals required as local sponsor",
+        "li5":"100% tax-free",
+        "li6":"No public records of shareholders and directors",
+        "li7":"Access to global funding",
+        "li8":"100% customs duty-free too",
+        "li9":"Gateway for international market expansion",
+        "li10":"Offshore firms can often serve as holding companies",
+        "li11":"Can hold shares in any LLC company in the UAE mainland or any free zone"
+      },
+      "ul2":{
+        "li1":"No residence visas allowed on offshore companies",
+        "li2":"Cannot conduct trading or any other business inside UAE"
+      },
+      "ul3":{
+        "li1":"Applicant passport copy",
+        "li2":"Applicant CV",
+        "li3":"Bank reference letter",
+        "li4":"Proof of residence",
+        "li5":"Due diligence form"
+      },
+      "ul4":{
+        "li1":"Certificate of Incorporation",
+        "li2":"Memorandum of Association",
+        "li3":"Board Resolution",
+        "li4":"All documents must be notarized and attested by MOFA"
+      }
+    },
+    "local-sponsor":{
+      "heading":"Trusted Local Sponsor in Dubai ",
+
+      "semi-heading1":"Local Service Agent in Dubai (LSA)",
+      "semi-heading2":"Corporate Sponsorship in Dubai",
+      "semi-heading3":"To Summarize:",
+      "semi-heading4":"Do You Need a Local Sponsor for Your Company in Dubai?",
+      "semi-heading5":"How to Choose the Right Local Sponsor in UAE?",
+
+      "mini-heading1":"Advantages of Individual Local Sponsor",
+      "mini-heading2":"Disadvantages of Individual Local Sponsor",
+      "mini-heading3":"Advantages of Local Service Agent",
+      "mini-heading4":"Disadvantages of Local Service Agent",
+      "mini-heading5":"Advantages of Corporate Sponsorship",
+      "mini-heading6":"Disadvantages of Corporate Sponsorship",
+
+      "paragraph1":"The involvement of nearby sponsors in Dubai is paramount to the formation of mainland groups in Dubai as cited via the UAE commercial companies’ law and UAE civil law. Local Sponsors or Nominee Shareholders are either nationals of UAE or a employer whose shareholders are 100% UAE nationals, UAE Local sponsors can also act as nearby provider retailers who will be paid an annual fee for the services they render.",
+      "paragraph2":"For the institution of mainland LLC by way of foreign investors, it is mandatory with the aid of the government that nearby sponsors personal up to 51% of the agency shares. The formation of Professional and consultant offices, on the other hand, do no longer require local companions for their establishment in Dubai. They can be 100% owned via overseas shareholders.",
+      "paragraph3":"The appointed local sponsor in Dubai takes no function in the every day strolling of the company’s business. They are accountable for liaising with the essential authorities department on behalf of their enterprise in the acquiring of visas, immigration approvals, and different licenses.",
+      "paragraph4":"Finding a nearby sponsor in Dubai that fits the required skills wished would possibly seem quite a daunting project for overseas businessmen. Local sponsorship in Dubai is however a obligatory requirement for business formation. The neighborhood sponsors (Nominee Shareholders) in UAE can have 51% only if the criminal form is a restricted liability corporation (LLC), for different criminal forms, the nearby service agent will have 0% shares of the company.",
+      "paragraph5":"A few enterprise sorts in Dubai does no longer require a neighborhood associate or nearby sponsor (Nominee Shareholder), it can be owned 100% by way of foreign investors, this includes professional companies, this includes sole organizations and civil companies, branch of a free area or foreign company, representative workplace of a free zone or overseas company, on the other hand it requires a local carrier agent (LSA) or a agency agent (CA). The neighborhood agent is a UAE countrywide or a organization owned a hundred percent with the aid of UAE nationals, the share proportion of a neighborhood provider agent in UAE is usually 0%, an LSA agreement ought to be signed to appoint a neighborhood provider agent in Dubai, this agreement will specify the annual sponsorship fee.",
+      "paragraph6":"The Corporate Sponsorship is a term used to outline the sponsor type, it refers to a company entity entirely owned via UAE nationals, the corporate will act on behalf of the local sponsor, it can act as a neighborhood shareholder or local provider agent, in this case, greater bureaucracy is wanted to add the corporate as a sponsor, the lawyer, the supervisor or the PRO services company will have a power of legal professional to characterize the corporate, the nearby sponsor will no longer be worried immediately in the process, this kind of sponsorship has few benefits and disadvantages.",
+      "paragraph7":"The Answer: It depends, if your commercial enterprise vicinity in mainland, or you open a branch of your business enterprise in mainland, then yes you want a UAE commercial enterprise sponsor, even though in most cases, the sponsor will be a neighborhood carrier agent, the organisation shares will be owned by way of you, without for industrial activities like accepted trading, the agency need to be an LLC and the UAE local ought to have the 51% of employer shares.",
+      "paragraph8":"The different alternative is to open a free quarter or offshore company, in this case, you don’t need a nearby sponsor, but your activities will be limited to the free region area.",
+
+      "ul1":{
+        "li1":"Better personal relationship",
+        "li2":"Less time to complete the license transactions",
+        "li3":"Requires less paperwork to finish the approvals",
+        "li4":"Can push the government approvals if delayed",
+        "li5":"His experience can be a good factor to avoid any problems",
+        "li6":"Sponsorship fees are not expensive"
+      },
+      "ul2":{
+        "li1":"Should have 51% shares in mainland LLC companies",
+        "li2":"In case the sponsor is not available the work may want to be delayed",
+        "li3":"Can declare the 51% shares if the side settlement is not signed",
+        "li4":"If the sponsor dies his shares will be transferred to his/her heirs"
+      },
+      "ul3":{
+        "li1":"Better relationship with individual LSAs",
+        "li2":"Will have 0% only of the company shares, the full shares are owned by the investor",
+        "li3":"Does not intrude in the day to day business operations",
+        "li4":"Changing the local agent to any other one is a whole lot easier than changing a shareholder",
+        "li5":"Sponsorship fees are not expensive"
+      },
+      "ul4":{
+        "li1":"In case the local provider agent is now not accessible the work could be delayed",
+        "li2":"Can cast off his name from the license in case of disagreement"
+      },
+      "ul5":{
+        "li1":"Better protection, if the UAE country wide dies this will now not have an effect on the business",
+        "li2":"Official relationship, the UAE nearby is not without delay involved, a PRO or a attorney will handle the paperwork"
+      },
+      "ul6":{
+        "li1":"More complex forms in case of company structures",
+        "li2":"Can declare the 51% shares if the side agreement is now not signed",
+        "li3":"Sponsorship costs are greater expensive"
+      },
+      "ul7":{
+        "li1":"Choose a proper nearby sponsor that you trust via a private relationship.",
+        "li2":"If you don’t be aware of any UAE neighborhood you can use an journey business setup marketing consultant to do this mission on your behalf.",
+        "li3":"Don’t go for very less costly sponsorship, some of them are not serious about doing genuine business Transparent fees, now and again there will be hidden prices paid to the sponsor to sign any legitimate record Always have the proper documentation, contracts, POAs, Side agreements to defend your enterprise belongings Make sure the sponsor is no longer a busy person, you may additionally need his signature at any time to publish an reputable transaction."
+      }
+    },
+    "pro":{
+      "heading":"Fast PRO Services in Dubai ",
+
+      "semi-heading1":"1. Licensing Services",
+      "semi-heading2":"2. MOHRE Services",
+      "semi-heading3":"3. DNRD Services",
+      "semi-heading4":"4. Emirates ID Services",
+      "semi-heading5":"5. Notary Public Services",
+      "semi-heading6":"6. Medical Test Services",
+      "semi-heading7":"7. Chamber of Commerce Certificate",
+      "semi-heading8":"8. Attestation Services",
+      "semi-heading9":"9. Translation Services",
+      "semi-heading10":"10. Liquidation Services",
+
+      "mini-heading1":"Dubai Economic Department (DED)",
+      "mini-heading2":"Free Zone License",
+      "mini-heading3":"Labor Establishment card",
+      "mini-heading4":"Employment work permits",
+      "mini-heading5":"Labor PRO card and other services",
+      "mini-heading6":"Immigration Establishment card",
+      "mini-heading7":"Investor residence visa",
+      "mini-heading8":"Family residence visa",
+      "mini-heading9":"Immigration PRO card and other services",
+
+      "paragraph1":"When it comes to setting up a number of business enterprise, the PRO offerings in Dubai are more often than not required for the quick acquisition of licenses, acquiring sure approvals such as visas, labor, and immigration approvals from the worried authorities which includes DED, MOHRE, DNRD …etc. It entails lots of comply with up and long vetting process, our company PRO services provide most assist and professional advice to purchasers searching to set up their organizations in Dubai.",
+      "paragraph2":"Al Phoronya gives the first-class PRO services in Dubai in the acquisition of all kinds of archives and approvals, with our many years of trip and shut relationships with the authorities, we keep you time and cash in the formation of your organization in Dubai, we understand the proper documents and records required to trouble all kinds of licenses to kick start your commercial enterprise in Dubai, we pose as your representative, working carefully with Dubai criminal authorities in the processing of essential files and issuance of wanted approvals. Our seasoned services include:",
+      "paragraph3":"When you decide to begin a business enterprise in Dubai or other emirates, there are three principal jurisdictions to pick from, every one of them has its personal special procedures, having the trip to do the right approaches and right documentation will keep you a lot of time, the lack of this trip will extend the process, the license processing may additionally take weeks in some cases, our PRO offerings include the following files clearing procedures:",
+      "paragraph4":"This includes issuing, enhancing , renewing and canceling all type of DED licenses, issuing, renewing and canceling exchange names and initial approvals, freezing the license, getting business permits, checking fines, paying fees, changing activity, including and doing away with partners, increasing capital and clearing the unique approvals associated to authorities departments such as Dubai Municipality, RTA, DHA, MOH, Dubai police, Dubai Customs, TRA, Ministry of economy, General Authority of Youth and Sports Welfare, KHDA, Dubai Civil defense, Dubai Chamber and land branch …etc.",
+      "paragraph5":"This service includes gathering all the required documents, getting the signature, submitting the files to the concerned authority and issuing the license, these authorities are typically the management office of every free area such as Trakhees, DAFZA, JAFZA, DMCC, DIFC, DWTC, DSOA, Dubai South, ADGM, RAKEZ and Shams … etc.",
+      "paragraph6":"This service includes accumulating the right papers and documents, getting the signature, submitting the application to the worried authority to trouble the offshore license, except getting the authentic attested documents from the original country, after receiving the license we can grant help to open a bank account inside and outdoor UAE.",
+      "paragraph7":"MOHRE is the abbreviation of Ministry of Human Resources & Emiratisation. When a company needs to rent new employees, the approval need to come first from MOHRE, as they are the authorities authority to problem work lets in and labor contracts in the UAE, we furnish the following:",
+      "paragraph8":"Issuing and canceling MOHRE institution cards, the issuing an institution card capability the corporation has a new file wide variety and can observe for labor work permits.",
+      "paragraph9":"Includes labor quota application, work permits, labor contracts, and labor card..",
+      "paragraph10":"Issuing and canceling PRO playing cards and other services such as absconding and inspection …etc.",
+      "paragraph11":"DNRD refers to the General Directorate of Residency and Foreigners Affairs in Dubai, this authority is issuing all variety of go to visas, visitor visas, mission visas, Dubai house visas (/visa-services/) such as Investor visa, Employment visa and family visa barring institution cards …etc., we system the following:",
+      "paragraph12":"Issue, modify, renew and cancel immigration cards, immigration card is a need to to trouble the visas on the corporation sponsorship",
+      "paragraph13":"This visa is issued to all organization shareholders in Dubai, the validity of the visa is 3 years and it can be 10 years Employment residence visa.",
+      "paragraph14":"After getting the work permit approval from MOHRE, the corporation ought to proceed to issue the Entry permit, the worker need to enter the country to complete the procedures of his employment visa, the last step will be stamping the visa on his passport.",
+      "paragraph15":"Any residence in UAE can practice for this visa to bring his family to UAE, it starts off evolved with entry permit, then entering the country, getting the scientific test, Emirates ID fingerprint, the final step is stamping the visa of the family member passport.",
+      "paragraph16":"Issue and cancel immigration PRO cards barring different offerings such as absconding and clearing remarks …etc.",
+      "paragraph17":"EID or Emirates ID is the country wide card in UAE, it’s issued by using the Federal Authority for Identity and Citizenship (ICA), the Emirates ID is mandatory for any man or woman holding a UAE house Visa, the application of the Emirates ID is typed after entering the country, the person need to do a fingerprints scan, stay photograph and digital signature on the Emirates ID center, our offerings include: typing the software and guiding the applicant from A to Z.",
+      "paragraph18":"The Notary Public in Dubai is section of Dubai Courts, the Notary job is to attest all partnership contracts, MOAs, POAs and legal warnings …etc., our service encompass typing, preparation, Arabic criminal translation of all MOAs, LSAs, POAs, Civil agreements, other prison archives and notarizing these files at the Notary public in Dubai.",
+      "paragraph19":"The Medical check is one of the necessities to problem a residence visa in Dubai, it’s issued from Dubai Health Authority (DHA), the first component an applicant need to do after getting into UAE is to apply for the scientific test, the applicant will get the house visa only if the take a look at is passed, we furnish assistance in typing the take a look at software and guiding the applicant from A to Z.",
+      "paragraph20":"This membership certificates is issued by using the chamber of commerce in Dubai, as a member, the investor will get many benefits, learn extra about the market, business possibilities and overcome commercial conflicts, we will prepare, technique and problem the membership certificates on behalf of the company.",
+      "paragraph21":"We Attest all sort of documents such as Educational Certificates, Marriage Contracts, birth certificate, experience certificate, MOAs, POAs and any commercial archives that are issued from a overseas country, this attestation is obligatory if the file is supposed to be used internal UAE.",
+      "paragraph22":"After attesting the foreign documents from Ministry of Foreign Affairs, the subsequent step is felony translation into Arabic, the Arabic language is the official language in UAE, all reputable corresponds are in Arabic, to submit any file to the related authority, the record have to be written in Arabic or legally translated to Arabic language, we grant the translation carrier to all our clients.",
+      "paragraph23":"The liquidation or closure of companies is not a easy process, closing a sole establishment is pretty easy, but liquidating an LLC is extra complicated and requires many prison procedures, this method should take up to two months, we offer this carrier in Dubai from A to Z which includes the prison auditing until the employer is closed."
+    },
+    "visa":{
+      "heading":"Partner and Family Residence Visa Services in Dubai",
+
+      "semi-heading1":"Investor Residence Visa (Partner Visa)",
+      "semi-heading2":"Dubai Property Investor Visas",
+      "semi-heading3":"Family Residence Visa (Dependents Visa)",
+      "semi-heading4":"Retirement Visa",
+      "semi-heading5":"Steps to Apply for Investor/Employee/Family Residence Visas",
+      "semi-heading6":"Tourism Visa",
+
+      "mini-heading1":"The requirements to apply for investor residence visa are:",
+      "mini-heading2":"2 years property visa",
+      "mini-heading3":"5 years property visa",
+      "mini-heading4":"10 years property visa",
+      "mini-heading5":"The requirements to apply for Family residence visa are:",
+      "mini-heading6":"In case the sponsor is an investor there are additional requirements:",
+      "mini-heading7":"The requirements to apply for employment residence visa are:",
+
+      "paragraph1":"High experience is required in the acquisition of visas for foreign investors and personnel alike. The documents required for the visa types handy range from one any other primarily based on the cause of entry into the country. We provide high quality solutions and assistance in the utility for new visas and visa renewals in Dubai. Our PRO service professionals are well-informed and knowledgeable on the method and archives required in the acquisition and renewal of all Dubai dwelling visas. With our service, the house visa processing time in Dubai is decreased to the minimum.",
+      "paragraph2":"Dubai residence visas are issued with the aid of The General Directorate of Residency and Foreigners Affairs in Dubai (GDRFA), additionally known as Department of Naturalisation and Residency Dubai (DNRD). The different UAE house visas in other emirates are issued via the immigration branch in every emirate. All the immigration departments in UAE are phase of the ministry of interior (MOI).",
+      "paragraph3":"The UAE authorities offer free sector and Mainland companies (https://darbalreyada.com/mainland-company/) investor visas, the investor visa lets in the holder a dwelling duration of up to three years in Dubai. Processing an investor visa in Dubai requires approval from the DNRD and acquisition of an entry permit. Also, the issuance of Emirate ID and a scientific test will be completed alongside the buy of clinical insurance plan for the concerned parties. The business house visa is solely valid for three years.",
+      "paragraph4":"The freehold property buyers can get a property investor visa, the house visa validity is 2,5, or 10 years, the investors will get the visa if they fulfill the following requirements:",
+      "paragraph5":"Investing of AED 750,000/- or more in freehold property.",
+      "paragraph6":"Investing of AED 2,000,000/- or more in freehold property.",
+      "paragraph7":"Investing of AED 5,000,000/- or more in public investment, the investment must be held for at least 3 years, 60% of the investment must be a non-real estate.",
+      "paragraph8":"The UAE government approves traders and personnel in Dubai to sponsor their family’s dwelling visa as some distance as positive necessities are met. Issuance of household residence visa requires the approval of DNRD. The validity period of the family residential visa spans from 2 to 3 years depending on the sponsor’s visa validity period. Here at Paso, we recognize the significance of family, we, consequently put in all our satisfactory resources in the acquisition of your family’s residential visa.",
+      "paragraph9":"This is the most frequent kind of visa request in Dubai. All overseas nationals looking for employment in Dubai are required to have employment residence visa as eligibility criteria for employment. Issuance of an employment visa in Dubai requires the approval of MOHRE and DNRD. The approval technique is quite daunting and involves plenty of paperwork. To practice for this visa both work permit and entry permit should be obtained before the employment residence visa is issued. The subsequent step of the manner includes the acquisition of an Emirate ID, present process a series of clinical take a look at and application for the clinical insurance coverage for the involved party. The employment house visa is only valid for 2 years before renewal.",
+      "paragraph10":"The employment visa is related to Ministry of Human Resources & Emiratisation (MOHRE), earlier than applying for the immigration visa, MOHRE must approve the work permit. When the employee enters the country, the labor contract be processed alongside the clinical take a look at and the Emirates ID, the last step is to issue the labor card and stamp the dwelling visa on the passport.",
+      "paragraph11":"A new visa type was once introduced for retirees and buyers over the age of 55 years, the validity of this visa is 5 years, the visa will be given if one of the following stipulations is fulfilled:",
+      "paragraph12":"All UAE house visas have one rule in common, the holder can no longer continue to be outside the united states of america for more than six months, if the residence holder stayed more than the allowed period, the visa will be viewed canceled, a new visa should be issued by way of the sponsor, the investor visas have some exceptions to this rule. To affirm the popularity of the new or current visa, test this link: Dubai Visa Online Check",
+      "paragraph13":"Al Phoronya visa services provide high-quality help and expert advice in the acquisition of a number of kinds of visas. Our specialists are specialist in the acquiring of visas for single or more than one individuals. We take the stress and extend out of your visas processing.",
+      "paragraph14":"Issuance of new tourist visas",
+      "paragraph141":"There is an internal extension without the need to travel",
+      "paragraph15":"Apply for a visa extension",
+      "paragraph16":"Apply for a residence permit for your family",
+
+      "ul1":{
+        "li1":"The investor should be 100% owner or a shareholder, the shares value must be minimum of AED 72,000/-.",
+        "li2":"Original LLC agreement (MOA), partnership agreement or LSA agreement.",
+        "li3":"Valid trade license copy showing the partner name.",
+        "li4":"Immigration establishment card copy.",
+        "li5":"Colored passport copies and white background photos."
+      },
+      "ul2":{
+        "li1":"The expat have to have a minimal income of AED 4000/- per month or AED 3000/- + accommodation.",
+        "li2":"For some nationalities and in specific cases, more earnings can also be required for the approval.",
+        "li3":"The sponsor have to have a qualifying occupation to be authorized through DNRD.",
+        "li4":"A tenancy contract (Ejari) registered by using the sponsor name.",
+        "li5":"Original and attested marriage contract translated into Arabic.",
+        "li6":"A six months financial institution statement, showing the actual salary.",
+        "li7":"Original labor contract and authentic earnings certificate.",
+        "li8":"Colored passport copies and white history photos.",
+        "li9":"An authentic and attested beginning certificate for children."
+      },
+      "ul3":{
+        "li1":"A legitimate copy of the company alternate license + associate names.",
+        "li2":"Original LLC contract or partnership agreement, minimal share fee is AED 72,000/-",
+        "li3":"A refundable financial institution savings of AED 3,000/- for every family member."
+      },
+      "ul4":{
+        "li1":"Valid exchange license copy displaying the partner names.",
+        "li2":"Immigration establishment card copy.",
+        "li3":"Original and attested Educational certificates for high professions.",
+        "li4":"Colored passport copies and white background photos.",
+        "li5":"Details about the assigned career and salary."
+      },
+      "ul5":{
+        "li1":"The expat have to have an investment in a property really worth Dh2 million.",
+        "li2":"Have savings of no much less than Dh1 million.",
+        "li3":"Have an energetic profits no longer less than Dh20,000 per month."
+      },
+      "ul6":{
+        "li1":"Residence entry permit valid for 60 days",
+        "li2":"The applicant have to enter the country or do statues change",
+        "li3":"The medical certificate, the applicant should pass the test to get the residence visa",
+        "li4":"Emirates ID, fingerprint scanning and live photo",
+        "li5":"Medical insurance is mandatory by the law",
+        "li6":"Visa stamping on the passport"
+      },
+      "ul7":{
+        "li1":"1 month renewal",
+        "li2":"2 months renewal",
+        "li3":"3 months renewal"
+      }
+    },
+    "translation":{
+      "heading":"Accurate and Certified Translation Services in Dubai",
+
+      "semi-heading1":"1. Normal Translation Services",
+      "semi-heading2":"2. Legal Translation Services",
+      "semi-heading3":"3. Technical Translation Services",
+      "semi-heading4":"Website Localization",
+      "semi-heading5":"Human Translation or Machine Translation",
+      "semi-heading6":"Arabic Copywriting",
+      "semi-heading7":"Translation Languages",
+      "semi-heading8":"Why Our Translation Services Are All You Need?",
+
+      "paragraph1":"Each country has its way of life and language, it’s not handy to stay and work in a overseas country, you have to analyze the us of a law, terms, and the language, therefore, any certificates or authentic files you lift with you should be translated into the new language, this ensures the processing smoothness of any academic utility or authorities transaction. Considering the knowledge and confidentiality required for this process, we therefore, rent solely the fantastic licensed criminal translators in Dubai who are certified by using the Ministry of Justice, we make sure our clients get the first-class fantastic legal translation offerings the country has to offer.",
+      "paragraph2":"A Normal Translation is the translation of a textual content to some other language except the want of a prison translator signature and seal, the last report is normally used for a private cause such as translating a web document, website, normal letter, emails or any other document not intended for legal use.",
+      "paragraph3":"A legal translation in Dubai, is the translation of a textual content to any other language, the translated document will keep the seal and signature of the criminal translator, the Ministry of Justice stamp and printed on an unique letterhead, this translation is typically supposed for criminal use, it is obligatory for government departments’ submissions, it includes Educational certificates, Birth certificates, marriage certificates, divorce certificates, dying certificates and any felony document written in non-Arabic language.",
+      "paragraph4":"The legal translation services in Dubai are broadly speaking used for Arabic language, the Arabic language is the legitimate language in UAE, and any file submitted to a government department need to be translated into Arabic, whether or not you are making an attempt to issue a residence visa, open a business, appoint a lawyer or even get a new job, the Arabic translation in Dubai is a should for all your original documents.",
+      "paragraph5":"When you wish to legally translate a certificates or a document into Arabic, the first step is to get the report attested, the attestation system starts in the country of beginning and ends attestation, the next step is submitting the unique files with passport copies or IDs to criminal translation.",
+      "paragraph6":"The commercial translation is the most common translation in UAE, it includes MOA contracts, Power of attorneys, board resolutions and certificates of incorporation…etc., these documents are in particular wanted to submit to the Economic Department and the Notary public in Dubai, any mistake in the files may want to lead to felony issues in the future, these indispensable archives require true achieved legal translations into Arabic language.",
+      "paragraph7":"There are different types of certified translations, one of them is the technical translation, this translation is required for exceedingly specialized archives that include technical terms and expressions, it includes many industries such as Engineering translation, clinical translation, advertising and marketing translation, chemical translation, telecommunication translation, economic and electricity translation…etc., the technical translation is extra state-of-the-art and requires more time and experience, this is demanded typically for research papers, technical websites, manuals, brochures, catalogs, and guides.",
+      "paragraph8":"The website is an essential phase of almost any business, globalization is allowing organizations to emerge as international, localizing a website will market the enterprise in new regions round the world, the essential part is translating the website content, this need to be accomplished besides changing the core message, but adapting it to the target market, without localizing the business enterprise profile, product brochures, courses and manuals, this technique can appear at some point of the development, earlier than launching the website, or even replace an existing website via adding extra languages after the launch.",
+      "paragraph9":"Translation is fundamental for people, companies and companies, laptop translation is frequent nowadays, the most frequent tool is google translate, the computing device translation algorithms grew to become very accurate, many human beings think it will replace human translation, this is by no means going to happen, really because machines can in no way recognize culture, it’s hard to localize and it lacks magnificence and style, specially for right to left languages like the Arabic language, the advantage of these tools: you can use it for free, but the disadvantage: it’s limited, it will never be environment friendly or 100% accurate.",
+      "paragraph10":"The machine translation is useful if you need a fast translation, or to recognize the well-known which means of a text, as it uses a direct word to word translation, many humans do the mistake of the use of google translate for a professional business, the expert translation will constantly want a human touch.",
+      "paragraph11":"Localizing a internet site is an wonderful move, but if you want to have extra sales in the Arab world you want extra content, we will assist you create an Arabic copy from the authentic English copy, localize your marketing message to entice nearby customers, this will expand the consumers base and extend sales, due to the fact customers are more likely to purchase products in their original language, this is now not constrained to your website, it can include: brochures, newsletters, emails, press releases, and advertisements, it’s necessary to use a professional and qualified copywriters to spark the activity of your clients.",
+      "paragraph12":"The UAE has over 180 nationalities, talking one of a kind languages from all round the world, now not all of us speakme English, humans choose to speak in their native language, targeting the most number of customers in their native language is no longer easy, the want for nice translation offerings is developing each and every day, it’s your chance to transform your commercial enterprise from local to international, translation is your connection to the world, here are the most frequent translation languages: Arabic, English, Russian, Turkish, Spanish, Dutch, French, German, Italian, Kurdish, Tagalog, Hindi, Urdu, Chinese, Japanese, Korean, Farsi and more.",
+
+      "ul1":{
+        "li1":"Professional and accurate translation",
+        "li2":"Perfect legal translation quality",
+        "li3":"100% confidentiality is guaranteed",
+        "li4":"Practical and fast translation services",
+        "li5":"Punctuality and commitment to all our clients’ needs"
+      }
+    },
+    "attestation":{
+      "heading":"Certificates and Documents Attestation Services in Dubai",
+
+      "semi-heading1":"Ministry of Foreign Affairs Attestation",
+      "semi-heading2":"1. Commercial Documents Attestation in Dubai",
+      "semi-heading3":"2. Personal Certificates Attestation in Dubai",
+      "semi-heading4":"True Copy Attestation in Dubai",
+      "semi-heading5":"Why Our Attestation Services Are the Best?",
+
+      "mini-heading1":"Educational certificate attestation",
+      "mini-heading2":"Marriage certificate attestation",
+      "mini-heading3":"Birth certificate attestation",
+      "mini-heading4":"Death certificate attestation",
+      "mini-heading5":"Medical certificate attestation",
+      "mini-heading6":"Good conduct certificate attestation",
+      "mini-heading7":"Department of Economic Development (DED)",
+      "mini-heading8":"Notary Public (Dubai Courts)",
+
+      "paragraph1":"All the legal documents and certificates originated backyard UAE have to be attested by the Ministry of Foreign Affairs in Dubai, except this attestation it will now not be eligible for prison use within the country. Prior to MOFA attestation, all documents and certificates are first attested by using the UAE embassy in the u . s . a . of origin, the attestation technique consists of all type of archives such as Commercial Documents (Contracts – MOA – POA – BR – License – certificates of incorporation…etc.), Personal certificates (Educational, Marriage, birth and loss of life certificates…etc.) except the true reproduction attestations.",
+      "paragraph2":"This kind of attestation is very common in Dubai, mainly the attestation of Company Registration documents, Power of legal professional attestation, Memorandum of association, Board decision and certificates of incorporation, these files are authenticated before the Notary Public in the authentic country, also it have the UAE embassy seal before making use of for MOFA attestation, the attested files are generally used for the following purposes:",
+      "paragraph3":"Getting a efficaciously attested archives is very vital in Dubai, whether or not you are making an attempt to get a family visa, applying for non-public or authorities job, issuing a new passport for a newborn baby or starting a new business, make sure all files and certificates are original, proven and correct attested through the related authorities, this consists of but no longer confined to the following documents:",
+      "paragraph4":"Most of the job designations in UAE require an attested educational certificate, this is necessary for work and employment, the high job positions are authorized with the aid of MOHRE, the submitted academic certificate be genuine and in the identical designation field, it consists of PhDs, Masters, Degrees, Diplomas, and Provisional Certificates.",
+      "paragraph5":"The marriage certificate is mandatory to every body who is applying for a household visa, this is one of DNRD necessities to prove a actual marriage, the certificate should be unique and attested by MOFA, it is submitted alongside with the immigration software to get the household visa.",
+      "paragraph6":"This certificate is very important, specially for newly born babies to prove who are the parents, the date and location of birth…etc., it is used to problem the passport and the child dwelling visa, if the infant is born in the country, the certificate will be attested inner the country, in any other case it requires the attestation of the UAE embassy in the domestic u . s . a . and MOFA, the usage of this certificate is for getting a UAE residence visa, school admission, alternate the individual title and for migration.",
+      "paragraph7":"When anyone dies the government issues a certificate to show the death incident, this certificate is attested by means of the authorities and the embassy, if the incident took place outside the UAE, the certificate is issued from the authentic country, it requires attestation by way of MOFA, the heirs ought to appoint a representative through different power of attorney, later they can switch the inherited money, shares, properties, or promote the shares and liquidate any LLC company.",
+      "paragraph8":"Also known as sick depart certificate, it is required to prove an character injury or illness, claim healthcare and follow for in poor health leave, it is issued via a health facility or a clinic, attested by using the Ministry of Health, this certificates requires MOFA attestation if issued outdoor the UAE.",
+      "paragraph9":"The police clearance certificate is some other certificate used to show the man or woman criminal statues, the government and the legit authorities may additionally ask for this certificate, it is used to observe for visa or migration, the procedure of the attestation is similar to other certificates, issued from the home country, attested by using the UAE embassy and then MOFA attestation, for a short time of period, MOHRE was asking a appropriate habits certificate to any individual applying for new work permit in UAE, this rule is suspended for the time being.",
+      "paragraph10":"A certified proper copy is an attested or notarized photocopy of an authentic report to show and verify it as a real replicate, the genuine copy is normally carried out in the case of dropping an unique document, verifying an online file as original, or really the want to have an more actual copy for non-public or commercial use.",
+      "paragraph11":"All the industrial licenses issued through DED are online documents, this is finished for many reasons such as: saving time, ease of get right of entry to and due to the fact all government transactions in the UAE will end up a a hundred percent online, although the license can be proven on line as original, some can also need a certified actual copy of the license, usually to publish it to a financial institution or a government authority in other emirate or outside the country.",
+      "paragraph12":"Forming a mainland company, branch of overseas agency or Rep Office requires signing one-of-a-kind agreements, these agreements are issued with the aid of a confined variety of copies, every so often the original copy is lost or the investor requires an extra unique replica for felony or commercial purposes, in this case the Notary Public in Dubai can difficulty a certified true copy, the most frequent archives requested are: Memorandum of Associations, nearby provider agent agreements, civil partnership agreements and Power of attorneys, the application is processed by using the licensed character or his representative, the real replica is licensed after paying the fees.",
+      "paragraph13":"We supply the excellent attestation carrier in Dubai. Our professionals right here at Paso are properly acquainted with all essential attestation tactics and files required by using the attesting agencies. Time is of an essence, let us assist you quick tune your attestation procedure and get all your report validated in no time.",
+
+      "ul1":{
+        "li1":"Set up, amend or cancel a branch of a overseas company.",
+        "li2":"Set up, amend or cancel a Representative Office of a foreign Company.",
+        "li3":"Company formation in the mainland or in the free zones.",
+        "li4":"Signing a felony report on behalf of a supervisor or a shareholder who is outside the country."
+      },
+      "ul2":{
+        "li1":"Professional government attestation",
+        "li2":"Fast-tracked government attestation",
+        "li3":"100% Confidentiality guaranteed",
+        "li4":"Certified original and authentic attestation",
+        "li5":"Government requirements are met for all attestations"
+      }
+    },
+    "liquidation":{
+      "heading":"Expert Company Liquidation Services in Dubai",
+
+      "semi-heading1":"What is Company Liquidation",
+      "semi-heading2":"How to Wind Up or Close an LLC",
+      "semi-heading3":"Dubai DED License Cancellation",
+      "semi-heading4":"Closing or Canceling a Sole Establishment License",
+      "semi-heading5":"Closing or Dissolving a Civil Company",
+      "semi-heading6":"Closing or Canceling A Branch of Foreign Company",
+      "semi-heading7":"Special Company Cancellation in Dubai",
+
+      "mini-heading1":"Clearances Needed for Business Closing or LLC Liquidation in Dubai",
+
+      "paragraph1":"A business liquidation in Dubai requires a high stage of professionalism and know-how to execute, a lot of tedious prison and financial process are involved which can also take a very long time to complete, liquidation of a organization have to be a unanimous decision between the participants of a corporation before the execution. The UAE industrial law regulates the liquidation of an LLC enterprise in the following cases:",
+      "paragraph2":"The organisation liquidation in Dubai is the method of closing an LLC company, canceling the alternate license and distributing the organization assets and properties. In order to stop operations and activities, the shareholders must agree to dissolve the LLC company, signal a board resolution, assign a legal auditor, cancel any visas on the corporation sponsorship, get clearances from the government authorities, pay any outstanding debts or fines on the license and cancel the bank and deposit accounts.",
+      "paragraph3":"Closing an LLC agency in Dubai takes between 60-80 days to complete, this is the shortest time thinking about the organisation has no fines and nobody submitted a declare or objection, a few barriers might also arise in the course of the winding up process, our professional and deep experience can without problems cast off any hassle and pace up the liquidation process, the LLC liquidation steps are:",
+      "paragraph4":"Closing a commercial enterprise and Canceling a change license in Dubai mainland requires the approval of the Economic Department (DED), in case the company is LLC, the board resolution between the shareholders is signed in front of the Notary Public in Dubai, the DED will difficulty the preliminary and remaining liquidation approvals, any declare or objection is submitted to the DED, the remaining fee will encompass any fines on the license, if the trade license is expired, the DED will high-quality the business enterprise AED 200/- per day without any fines from different authorities departments, the liquidation manner ends by canceling the commercial change register.",
+      "paragraph5":"Many people confuse LLC agency liquidation and expert license cancellation, canceling a sole establishment or a civil employer does now not require a prison liquidator, it takes less time, much less forms and value much less money, the employer proprietors are personally dependable for any debts or fines on the license.",
+      "paragraph6":"The steps to shut a sole establishment or a department of a sole establishment are:",
+      "paragraph7":"The steps to close a civil corporation or a department of a civil agency are:",
+      "paragraph8":"To cancel the license of a foreign enterprise branch, the foremost company have to provide a board resolution, the decision ought to affirm the branch cancellation, it need to be attested through MOFA and translated to Arabic language, for this kind of cancellation there is one extra step, the Ministry of Economy approval, the DED will overview all the documents and the clearance letters, after issuing the ultimate payment voucher and paying it, the license is canceled.",
+      "paragraph9":"The economic branch in Dubai affords a distinctive type of license cancellation, this kind is for the expired licenses for greater than two years, the nearby companion need to submit an project letter, clear all visas and procedure the employer cancellation, this is particularly beneficial if the accomplice handed away or left the united states besides any contact.",
+      "paragraph10":"Whether you are liquidating an LLC company, canceling a sole institution or closing a civil company, the clearance letters required from the following government departments:",
+      "paragraph11":"According to license activity, additional government approvals may be required such as Dubai",
+      "paragraph12":"The organization liquidation in Dubai requires a careful and professional strategy as lots of criminal documents, governmental companies and bureaucracy are involved, without the right education and comply with up, the corporation liquidation may additionally take numerous months to complete, choosing the fabulous form of liquidation will assist hasten the complete manner and keep cost, at Al Phoronya, we offer professional recommendation and higher solutions to make your agency liquidation simpler in Dubai.",
+
+      "ul1":{
+        "li1":"Majority vote with the aid of the organisation shareholders in support of business enterprise liquidation.",
+        "li2":"When the corporation goes bankrupt and leads to an accumulation of losses extra than half the company’s capital.",
+        "li3":"Mandatory court ruling to dissolve and liquidate the company.",
+        "li4":"Voluntary liquidation by the company’s shareholders."
+      },
+      "ul2":{
+        "li1":"Signing a board decision between the shareholders to dissolve the company",
+        "li2":"Canceling any labor cards, immigration visas and getting clearance letters",
+        "li3":"Paying any notable money owed on the business enterprise and clearing all the fines",
+        "li4":"Appointing a felony liquidator to process the business enterprise liquidation",
+        "li5":"Submitting all the archives to get the initial liquidation approval",
+        "li6":"Publishing the dissolution choice on nearby newspapers for 45 days",
+        "li7":"If nobody objected on the liquidation, the liquidator will difficulty the auditing report",
+        "li8":"Canceling the associate visas and submitting the documents for the closing stage",
+        "li9":"Pay the fees, cancel the change license and the business register",
+        "li10":"Cancel any bank debts or credit money owed belonging to the company"
+      },
+      "ul3":{
+        "li1":"Cancel any labor, immigration, associate visa on the company",
+        "li2":"Get clearance from authorities departments",
+        "li3":"Get permission from the premise’s landlord",
+        "li4":"The proprietor or the legal consultant must do the submission",
+        "li5":"Pay the prices and get the cancellation certificate",
+        "li6":"Cancel any financial institution or credit account and savings cards",
+        "li7":"For the branch cancellation, the proprietor ought to sign a request letter"
+      },
+      "ul4":{
+        "li1":"Cancel any labor, immigration or partner visa on the civil company",
+        "li2":"Get clearance from authorities departments in Dubai",
+        "li3":"The shareholders need to sign a enterprise dissolving agreement",
+        "li4":"Pay the fees and get the cancellation certificate",
+        "li5":"Cancel any financial institution or credit account belongs to the company",
+        "li6":"For the branch cancellation, the enterprise problem a request letter"
+      },
+      "ul5":{
+        "li1":"Dubai Electricity and Water Authority (DEWA)",
+        "li2":"Ministry of Human Resources and Emiratisation (MOHRE)",
+        "li3":"Immigration Department in Dubai (DNRD)",
+        "li4":"Emirates Telecommunication Group Company (Etisalat)",
+        "li5":"Emirates Integrated Telecommunications Company (DU)",
+        "li6":"Ministry of Economy approval to cancel a foreign branch license"
+      }
+    },
+    "temp":{
+      "heading":"",
+
+      "semi-heading1":"",
+      "semi-heading2":"",
+      "semi-heading3":"",
+      "semi-heading4":"",
+      "semi-heading5":"",
+      "semi-heading6":"",
+      "semi-heading7":"",
+
+      "mini-heading1":"",
+      "mini-heading2":"",
+      "mini-heading3":"",
+      "mini-heading4":"",
+      "mini-heading5":"",
+      "mini-heading6":"",
+      "mini-heading7":"",
+      "mini-heading8":"",
+
+      "paragraph1":"",
+      "paragraph2":"",
+      "paragraph3":"",
+      "paragraph4":"",
+      "paragraph5":"",
+      "paragraph6":"",
+      "paragraph7":"",
+      "paragraph8":"",
+      "paragraph9":"",
+      "paragraph10":"",
+      "paragraph11":"",
+      "paragraph12":"",
+      "paragraph13":"",
+
+      "ul1":{
+        "li1":"",
+        "li2":"",
+        "li3":"",
+        "li4":"",
+        "li5":"",
+        "li6":"",
+        "li7":""
+      },
+      "ul2":{
+        "li1":"",
+        "li2":"",
+        "li3":"",
+        "li4":"",
+        "li5":"",
+        "li6":"",
+        "li7":""
+      },
+      "ul3":{
+        "li1":"",
+        "li2":"",
+        "li3":"",
+        "li4":"",
+        "li5":"",
+        "li6":"",
+        "li7":""
+      },
+      "ul4":{
+        "li1":"",
+        "li2":"",
+        "li3":"",
+        "li4":"",
+        "li5":"",
+        "li6":"",
+        "li7":""
+      },
+      "ul5":{
+        "li1":"",
+        "li2":"",
+        "li3":"",
+        "li4":"",
+        "li5":"",
+        "li6":"",
+        "li7":""
+      }
+    }
+}
